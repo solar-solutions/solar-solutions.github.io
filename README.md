@@ -1,2 +1,2 @@
 # solar-solutions.github.io
-solar solutions project website
+This is my first public website
