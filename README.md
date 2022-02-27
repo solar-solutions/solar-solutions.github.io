@@ -1,2 +1,2 @@
-# solar-solutions.io
+# solar-solutions.github.io
 solar solutions project website
